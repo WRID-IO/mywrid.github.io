@@ -1,2 +1,1 @@
-# mywrid.github.io
-WRID website until it works out.
+![WRID - My Writing ID](wrid.jpg)
